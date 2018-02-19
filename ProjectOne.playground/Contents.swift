@@ -4,7 +4,7 @@ import UIKit
 
 var str = "Hello, playground"
 
-
+//Code reviewed by Marion on 2/19
 // Variable Coding Challenge #1
 
 var firststring: String
